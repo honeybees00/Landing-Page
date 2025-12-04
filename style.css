@@ -1,8 +1,10 @@
 :root{
-    color-bg-primary: #005c69;
-    color-bg-secondary:#009AAE;
-    color-headings:#003F47;
-    color-text: #001012;
+    --color-bg-primary: #005c69;
+    --color-bg-secondary:#009AAE;
+    --color-headings:#003F47;
+    --color-text:0.#001012;
 }
 
- 
+ body{
+    background-image: url("Fall.jpg");
+ }
